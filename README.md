@@ -149,4 +149,4 @@ Through this assignment, the following concepts are practiced:
 
 ## Author
 
-**Sanika Kangane** 👩‍💻
+**Sanika Kangane 👩🏻‍💻** 
